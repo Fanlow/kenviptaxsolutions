@@ -24,7 +24,9 @@
     },
     "versionFirst": "4.6.5",
     "uniqCompNum": 11,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -52,7 +54,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CALL NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EMAIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CAREERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+1-214-9294549\">CALL NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:k.macfinancialservices@gmail.com\">EMAIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -315,7 +317,7 @@
           "subtitle": "Drop us a line and we will contact you with in 24 hours.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "garland@viptaxsolutions.com",
+            "action": "k.macfinancialservices@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -381,7 +383,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>4222 Rosehill Rd Suite 8<br>Garland, Texas 75043<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:garland@viptaxsolutions.com\">garland@viptaxsolutions.com</a><br>\nPhone: +1-844-709-0847<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:k.macfinancialservices@gmail.com\">k.macfinancialservices@gmail.com</a><br>\nPhone: +<a href=\"tel:+1-214-9294549\">1-214-929-4549</a><br><br>",
           "text3": "",
           "_tags": [
             "Theme"
